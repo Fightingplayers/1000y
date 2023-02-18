@@ -1,0 +1,61 @@
+a.menu:link {
+	COLOR: #FFC600;
+	TEXT-DECORATION: none;
+	font-family: "Î¢ÈíÑÅºÚ", "ËÎÌå";
+	font-size: 12px;
+	font-weight: bold;
+}
+a.menu:visited {
+	COLOR: #FFC600;
+	TEXT-DECORATION: none;
+	font-family: "Î¢ÈíÑÅºÚ", "ËÎÌå";
+	font-size: 12px;
+	font-weight: bold;
+}
+a.menu:hover {
+	COLOR: #FF6C00;
+	TEXT-DECORATION: none;
+	font-family: "Î¢ÈíÑÅºÚ", "ËÎÌå";
+	font-size: 12px;
+	font-weight: bold;
+}
+.tdtitle
+{
+	COLOR: #CCCCCC;
+	font-family: "Î¢ÈíÑÅºÚ", "ËÎÌå";
+	font-size: 12px;
+	font-weight: bold;
+
+}
+.tdregform {
+	margin-top: 8px;
+}
+.tdregleft {
+	font-family: "Î¢ÈíÑÅºÚ", "ËÎÌå";
+	color: #999999;
+	font-size: 12px;
+	font-weight: normal;
+}
+.inputreg {
+	background-color: #FFFFFF;
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #999999;
+	border: 1px solid #333333;
+}
+.tdinfo {
+	font-family: "Î¢ÈíÑÅºÚ", "ËÎÌå";
+	color: #999999;
+	font-size: 12px;
+	font-weight: normal;
+}
+body {
+	scrollbar-face-color: #FFF5F4;
+	scrollbar-shadow-color: #480048;
+	scrollbar-highlight-color: #FFF5F4;
+	scrollbar-3dlight-color: #480048;
+	scrollbar-darkshadow-color: #480048;
+	scrollbar-track-color: #480048;
+	scrollbar-arrow-color: #480048;
+	background-color: #050505;
+}
